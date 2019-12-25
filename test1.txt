@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 5CF7-B5C6
-
- Directory of C:\Users\parho\OneDrive\Desktop\MyProject
-
-12/25/2019  06:41 PM    <DIR>          .
-12/25/2019  06:41 PM    <DIR>          ..
-12/25/2019  06:41 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  832,164,749,312 bytes free
+change 1
